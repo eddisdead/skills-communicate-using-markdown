@@ -15,3 +15,8 @@ var myVar = "Burn in Heaven!";
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [ ] Learn how to us Markdown
+- [x] Be proud of yourself for making a list
+- [ ] Take a Break
+- [ ] Texture Dutch Desk Asset
